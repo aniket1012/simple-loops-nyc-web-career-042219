@@ -17,8 +17,7 @@ def loop_iterator(number_of_times)
     if counter >= number_of_times
       break
     end
-  end 
-
+  end
 end
 
 def times_iterator(number_of_times)
